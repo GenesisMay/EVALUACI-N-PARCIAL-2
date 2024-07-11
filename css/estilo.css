@@ -13,12 +13,12 @@
 }
 
 .caja {
-    background-color: lightgray;
-    border: 0px solid darkgray;
-    text-align: center;
-    padding: 10px;
-    margin: 0px;
-    overflow: hidden;
+        background-color: lightgray;
+        border: 1px solid darkgray;
+        text-align: center;
+        padding: 10px;
+        margin: 10px;
+        overflow: hidden;
 }
 
 .caja img {
