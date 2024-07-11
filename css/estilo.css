@@ -17,12 +17,6 @@
         border: 1px solid darkgray;
         text-align: center;
         padding: 10px;
-        margin: 10px;
+        margin-bottom: 20px;
         overflow: hidden;
 }
-
-.caja img {
-    max-width: 100%;
-    height: auto;
-}
-
